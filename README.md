@@ -55,8 +55,9 @@ Mean Absolute Error (MAE)
 Root Mean Squared Error (RMSE)
 R-squared (R²)
 
-Comparing the metrics and selecting the best fit model
-Visualization: Plot actual vs. predicted values to assess best fitmodel performance.
+5. Comparing the metrics and selecting the best fit model
+
+6. Visualization: Plot actual vs. predicted values to assess best fitmodel performance.
 
 Technologies Used:
 1)Programming Language: Python
