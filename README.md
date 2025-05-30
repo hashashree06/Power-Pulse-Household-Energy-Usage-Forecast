@@ -59,9 +59,9 @@ Comparing the metrics and selecting the best fit model
 Visualization: Plot actual vs. predicted values to assess best fitmodel performance.
 
 Technologies Used
-Programming Language: Python
-Libraries:
-pandas, numpy – Data manipulation
-matplotlib, seaborn – Data visualization
-scikit-learn – Machine learning models
-Linearregressor,randomforestregessor,Gradient boosting Regressor – Regression modeling techniques
+1)Programming Language: Python
+2)Libraries:
+    a) pandas, numpy – Data manipulation
+    b) matplotlib, seaborn – Data visualization
+    c) scikit-learn – Machine learning models
+    d) Linearregressor,randomforestregessor,Gradient boosting Regressor – Regression modeling techniques
