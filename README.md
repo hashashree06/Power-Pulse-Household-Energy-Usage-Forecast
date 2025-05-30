@@ -24,10 +24,10 @@ Dataset Overview:
             9) Sub_metering_3 (watt-hours)
 
 Objectives:
-Predictive Modeling: Build a model to forecast global active power consumption.
-Feature Engineering: Create meaningful features from raw data.
-Model Evaluation: Assess various models using metrics like RMSE, MAE, and R².
-Insights Generation: Provide actionable insights into energy usage patterns.
+1) Predictive Modeling: Build a model to forecast global active power consumption.
+2) Feature Engineering: Create meaningful features from raw data.
+3) Model Evaluation: Assess various models using metrics like RMSE, MAE, and R².
+4) Insights Generation: Provide actionable insights into energy usage patterns.
 
 Approach:
 1. Data Understanding and Exploration:
