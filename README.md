@@ -58,7 +58,7 @@ R-squared (R²)
 Comparing the metrics and selecting the best fit model
 Visualization: Plot actual vs. predicted values to assess best fitmodel performance.
 
-Technologies Used
+Technologies Used:
 1)Programming Language: Python
 2)Libraries:
     a) pandas, numpy – Data manipulation
