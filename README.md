@@ -4,6 +4,7 @@ Data Preprocessing, Feature Engineering, Model training,Evaluation Metrics
 This project aims to develop a machine learning model that predicts household energy consumption based on historical data. By accurately forecasting energy usage, the model assists consumers in monitoring their energy habits and helps energy providers optimize load management and pricing strategies.
 
 The dataset can be dowloaded directly from the UCI Machine Learning Repository:
+
 Download Dataset (household_power_consumption.txt)
 https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 
